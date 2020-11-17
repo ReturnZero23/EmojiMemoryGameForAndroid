@@ -112,8 +112,8 @@ class FullscreenActivity : AppCompatActivity() {
     private fun show() {
         // Show the system bar
         fullscreenContent.systemUiVisibility =
-                View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN or
-                        View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
+                View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN or View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
+
         isFullscreen = true
 
         // Schedule a runnable to display UI elements after a delay
