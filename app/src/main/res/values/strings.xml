@@ -2,4 +2,10 @@
     <string name="app_name">EmojiMemoryGameForAndroid</string>
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="todo">TODO</string>
+    <string name="first">first</string>
+    <string name="second">second</string>
+    <string name="third">third</string>
+    <string name="forth">forth</string>
+    <string name="mainfragment">MainFragment</string>
 </resources>
